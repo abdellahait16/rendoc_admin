@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "680276093199",
+    "project_id": "rendoc-f594a",
+    "storage_bucket": "rendoc-f594a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680276093199:android:d1725bc74b759ddaaa367a",
+        "android_client_info": {
+          "package_name": "com.example.rendoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680276093199-a1e9g95opvksls025pbolcsdgn9qtqfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpKe8e5QSdY67v0vfH3S47KeSOZmASgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680276093199-a1e9g95opvksls025pbolcsdgn9qtqfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680276093199:android:f82c543435f34b79aa367a",
+        "android_client_info": {
+          "package_name": "com.example.rendoc_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680276093199-a1e9g95opvksls025pbolcsdgn9qtqfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpKe8e5QSdY67v0vfH3S47KeSOZmASgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680276093199-a1e9g95opvksls025pbolcsdgn9qtqfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
