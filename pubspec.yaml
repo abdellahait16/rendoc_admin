@@ -29,10 +29,10 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-  cloud_firestore: ^4.4.2
+
   duration: ^3.0.12
   easy_splash_screen: ^1.0.4
-  firebase_auth: ^4.2.8
+
   flutter:
     sdk: flutter
   flutter_native_splash: ^2.0.1+1
